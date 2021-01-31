@@ -10,26 +10,26 @@ This is a resource site for project deliverables for the untitled Child Safety G
 **Daniel Cronin** - TBD<br/>
 **John Barguti** - TBD
 
-#Meeting Notes
+##Meeting Notes
 
 TBD
 
-#Game Design Document
+##Game Design Document
 
 TBD
 
-#Software Design Document
+##Software Design Document
 
 TBD
 
-#Game
+##Game
 
 TBD
 
-#Repository
+##Repository
 
 TBD
 
-#Video
+##Video
 
 TBD
