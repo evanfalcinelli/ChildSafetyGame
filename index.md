@@ -1,8 +1,16 @@
-## Welcome to Child Safety Game
+# Welcome to Child Safety Game
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a resource site for project deliverables for the untitled Child Safety Game project.
 
-### Markdown
+## Team
+
+**Lindsay BaileyA** - Client
+**Muyan Pan** - Instructor and Client Contact
+**Evan Falcinelli** - TBD
+**Daniel Cronin** - TBD
+**John Barguti** - TBD
+
+### Markdown Example
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
