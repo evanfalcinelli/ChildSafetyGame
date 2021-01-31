@@ -4,7 +4,7 @@ This is a resource site for project deliverables for the untitled Child Safety G
 
 ## Team
 
-**Lindsay BaileyA** - Client
+**Lindsay Bailey** - Client
 **Muyan Pan** - Instructor and Client Contact
 **Evan Falcinelli** - TBD
 **Daniel Cronin** - TBD
