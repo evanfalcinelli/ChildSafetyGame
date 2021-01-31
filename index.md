@@ -4,11 +4,11 @@ This is a resource site for project deliverables for the untitled Child Safety G
 
 ## Team
 
-**Lindsay Bailey** - Client
-**Muyan Pan** - Instructor and Client Contact
-**Evan Falcinelli** - TBD
-**Daniel Cronin** - TBD
-**John Barguti** - TBD
+**Lindsay Bailey** - Client\n
+**Muyan Pan** - Instructor and Client Contact\n
+**Evan Falcinelli** - TBD\n
+**Daniel Cronin** - TBD\n
+**John Barguti** - TBD\n
 
 ### Markdown Example
 
