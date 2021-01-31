@@ -1,35 +1,35 @@
-# Welcome to Child Safety Game
+# Welcome to Untitled Child Safety Game
 
-This is a resource site for project deliverables for the untitled Child Safety Game project.
+This is a resource site for project deliverables for the untitled Child Safety Game.
 
 ## Team
 
-**Lindsay Bailey** - Client\n
-**Muyan Pan** - Instructor and Client Contact\n
-**Evan Falcinelli** - TBD\n
-**Daniel Cronin** - TBD\n
-**John Barguti** - TBD\n
+**Lindsay Bailey** - Client<br/>
+**Muyan Pan** - Instructor and Client Contact<br/>
+**Evan Falcinelli** - TBD<br/>
+**Daniel Cronin** - TBD<br/>
+**John Barguti** - TBD
 
-### Markdown Example
+#Meeting Notes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TBD
 
-```markdown
-Syntax highlighted code block
+#Game Design Document
 
-# Header 1
-## Header 2
-### Header 3
+TBD
 
-- Bulleted
-- List
+#Software Design Document
 
-1. Numbered
-2. List
+TBD
 
-**Bold** and _Italic_ and `Code` text
+#Game
 
-[Link](url) and ![Image](src)
-```
+TBD
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#Repository
+
+TBD
+
+#Video
+
+TBD
