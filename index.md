@@ -10,15 +10,7 @@ This is a resource site for project deliverables for the untitled Child Safety G
 **Daniel Cronin** - TBD<br/>
 **John Barguti** - TBD
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
-<details>
-<summary><h2>Resources</h2></summary>
-<br>
+## Resources
 
 ### Meeting Notes
 
@@ -43,5 +35,3 @@ TBD
 ### Video
 
 TBD
-
-</details>
