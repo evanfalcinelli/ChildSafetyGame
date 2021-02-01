@@ -16,7 +16,9 @@ This is a resource site for project deliverables for the untitled Child Safety G
 This is how you dropdown.
 </details>
 
-## Resources
+<details>
+<summary><h2>Resources</h2></summary>
+<br>
 
 ### Meeting Notes
 
@@ -41,3 +43,5 @@ TBD
 ### Video
 
 TBD
+
+</details>
