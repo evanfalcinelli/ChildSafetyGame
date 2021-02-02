@@ -11,7 +11,5 @@ permalink: /journal/
 
 - Created a team website through GitHub pages
 - Planned to reach out to Lindsay to set up the first client meeting
-- Went over team roles and discussed within the group
-- Discussed team rules + Github practice choices
-- Created a concept for the game
+- Discussed team roles
 - Worked on assignment 1 together
