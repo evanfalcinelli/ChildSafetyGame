@@ -3,7 +3,7 @@ title: "Team"
 permalink: /team/
 ---
 
-[Home](/ChildSafetyGame/) | [Project](/ChildSafetyGame/project) | [Team](/ChildSafetyGame/team) | [Journal](/ChildSafetyGame/journal) | [Technology Overview](/ChildSafetyGame/technology) | [Deliverables](/ChildSafetyGame/deliverables) 
+[Home](/ChildSafetyGame/) | [Project](/ChildSafetyGame/project) | [Team](/ChildSafetyGame/team) | [Journal](/ChildSafetyGame/journal) | [Technology Overview](/ChildSafetyGame/technology) 
 
 ## Contributors
 
