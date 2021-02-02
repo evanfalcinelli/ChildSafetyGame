@@ -2,6 +2,8 @@
 
 This is a resource site for project deliverables for the untitled Child Safety Game.
 
+[Home](/ChildSafetyGame/) | [Project](/ChildSafetyGame/project) | [Team](/ChildSafetyGame/team) | [Journal](/ChildSafetyGame/journal) | [Deliverables](/ChildSafetyGame/deliverables) | [Technology Overview](/ChildSafetyGame/technology)
+
 ## Team
 
 **Lindsay Bailey** - Client<br/>
