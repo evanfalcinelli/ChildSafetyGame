@@ -7,6 +7,8 @@ permalink: /project/
 
 ## Concept
 
+Child Safety allows parents to create a safe environment for their children whether it is at home or on the playground. Parents are able to learn key concepts of child safety before testing their knowledge in a game that will simulate real-life experiences and quiz them on their choices!
+
 ## Repository
 
 ## Game Design Document

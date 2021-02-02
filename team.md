@@ -36,6 +36,8 @@ permalink: /team/
 -	Main source of communication among team members will be Slack 
 -	Try to check Slack at least twice a day (weekends included)
 -	If there is a no response from a team member; other members will decide on the best action, and they might move on 
+-   If a member has a busy week, he should notify the team during the team meeting so that everyone is update and assignment load can be adjusted (if needed)
+-   Always utilize the Slack to ask for help and give assignment updates so everyone is on the page
 
 ## Coding Style
 
@@ -43,5 +45,7 @@ permalink: /team/
 
 ## Git Collaboration
 
-- TBD
+- In general, we will follow the [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow) model and workflow with only `master` branch in remote repository
+- Changes do NOT have to always to proved by another member
+- Members can push their code change when they feel is ready; we can always revert changes if necessary
 
