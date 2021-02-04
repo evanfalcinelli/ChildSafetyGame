@@ -22,7 +22,7 @@ permalink: /team/
 ## Meeting Schedules
 
 ### Client
-- TBD
+- Thursdays at 4:00pm
 
 ### Recitation
 - Tuesdays at 3:30pm
