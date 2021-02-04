@@ -16,11 +16,12 @@ permalink: /journal/
 
 **Recap:**
 
-- The audience of the game will be parents of young children who are waiting
+- The audience of the game will be parents (of young children) who are waiting
 - Audience will also include community health center workers
 - The game will be played on the phone through the web browser
 - Client doesn't have any technology preferences
-- During the game, the players should have the opportunity to learn the concept while they are in the simulated environment
+- During the game, the players should have the opportunity to learn the concepts while they are in the simulated environment
+- Client has a list of concepts/learning modules that the players should learn while playing the game
 
 **Next steps:**
 
