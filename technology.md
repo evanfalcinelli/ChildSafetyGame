@@ -8,6 +8,9 @@ permalink: /technology/
 ## Technology Overview
 
 ### React
-- In order to create an interactive browser game on mobile devices, we chose to use [React](https://reactjs.org/) library.
+
+In order to create an interactive browser game on mobile devices, we chose to use the [React](https://reactjs.org/) library.
+
+JavaScript will be our language.
 
 

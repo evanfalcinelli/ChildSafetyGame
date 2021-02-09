@@ -41,11 +41,14 @@ permalink: /team/
 
 ## Coding Style
 
-- TBD
+- [jslint](https://jslint.com/) can help us maintain clean code
 
 ## Git Collaboration
 
 - In general, we will follow the [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow) model and workflow with only `master` branch in remote repository
-- Changes do NOT have to always to proved by another member
-- Members can push their code change when they feel is ready; we can always revert changes if necessary
+- Always run 'git pull' at the beginning of a coding session
+- Every commit to the master branch will have to be reviewed by one other teammate; the pull request has to be approved
+- Team members should look at the pull request within 48 hours; if the PR can't be looked at in time, let your team know
+- When there is a conflict between the master branch and the local branch, we will merge the master branch into the local branch before pushing the local branch as the master branch; we prefer this method over rebasing
+- However, since we are using React, we can divide up the work into different components with everyone working on their own parts, so creating new branches might not be necessary
 
