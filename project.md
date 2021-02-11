@@ -9,6 +9,10 @@ permalink: /project/
 
 Stork Shipping Co. allows parents to create a safe environment for their children whether it is at home or on the playground. Parents are able to learn key concepts of child safety before testing their knowledge in a game that will simulate real-life experiences and quiz them on their choices!
 
+## Learning Objectives
+
+[Link](https://docs.google.com/document/d/1DGJvSUpQCXMqn-h59YeLy6XQ5OavAXe5zpagXfhx8HA/edit?usp=sharing)
+
 ## Repository
 
 [Link](https://github.com/jaadbarg/child_safety)
