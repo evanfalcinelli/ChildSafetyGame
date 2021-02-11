@@ -7,6 +7,25 @@ permalink: /journal/
 
 ## Meeting Notes
 
+### Team Meeting 2/11
+
+- Corrected design document based on recitation notes
+ - Updated the data collection section
+ - Added titles for the endgame instead of grades
+- Set up the slack bot
+- Will start looking at breaking down the game into different components since we are using React 
+
+### Client Meeting 2/11
+
+- Went over the game design document with the client
+- For data collection, the client wants
+ - Questions that were the most missed
+ - Easiest questions
+ - New concepts that the players didn't know before
+ - Are the any concepts that the players already applied before?
+- Our plan right now is to only include the concepts that the client highlighted; if we have extra time, we will include all concepts
+- Meeting next week as scheduled; will update client if something arises 
+
 ### Team Meeting 2/4
 
 - Decided to use React to create this web game

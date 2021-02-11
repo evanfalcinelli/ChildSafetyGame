@@ -28,7 +28,7 @@ permalink: /team/
 - Tuesdays at 3:30pm
 
 ### Team
-- Thursdays at 3:30pm
+- Thursdays at 4:30pm
 
 ## Rules
 
