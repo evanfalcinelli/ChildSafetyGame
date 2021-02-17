@@ -13,6 +13,10 @@ Stork Shipping Co. allows parents to create a safe environment for their childre
 
 [Link](https://docs.google.com/document/d/1DGJvSUpQCXMqn-h59YeLy6XQ5OavAXe5zpagXfhx8HA/edit?usp=sharing)
 
+## Sprint Schedule
+
+[Link](https://docs.google.com/spreadsheets/d/1GhoJ9lSiZrVgomZzhm6TIzOPopiEkHNbLG47dENf9Sk/edit?usp=sharing)
+
 ## Repository
 
 [Link](https://github.com/jaadbarg/child_safety)
