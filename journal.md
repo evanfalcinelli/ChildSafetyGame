@@ -7,6 +7,22 @@ permalink: /journal/
 
 ## Meeting Notes
 
+### Recitation Meeting 2/18
+
+**Recap**: 
+
+- Professor Pozefsky agrees that we should add different levels based on the different rooms in the house
+- For player feedback, we shouldn't wait until the end of the game since the players might already forget about their experience
+ - We can asked the players questions after they complete each minigame/question, but we need to make sure that their gaming experience isn't disturbed
+- We will use Carolina Cloud Apps to host the game; make sure that client sets up the account (easier down the line)
+- When coding, try to work on the main game page + mini games at the same time
+- As we use phaser more, we might not utilize React as much
+
+**Action items:**
+
+- Have official sprint goals planned out at the beginning of each sprint week
+- Have phaser installed and every start working on it by next week
+
 ### Team Meeting 2/11
 
 - Corrected design document based on recitation notes
