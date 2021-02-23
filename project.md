@@ -19,7 +19,7 @@ Stork Shipping Co. allows parents to create a safe environment for their childre
 
 ## Repository
 
-[Link](https://github.com/jaadbarg/child_safety)
+[Link](https://github.com/jaadbarg/StorkShippingCo)
 
 ## Game Design Document
 

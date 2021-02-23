@@ -9,7 +9,7 @@ permalink: /journal/
 
 ### Recitation Meeting 2/18
 
-**Recap**: 
+**Recap:**
 
 - Professor Pozefsky agrees that we should add different levels based on the different rooms in the house
 - For player feedback, we shouldn't wait until the end of the game since the players might already forget about their experience
