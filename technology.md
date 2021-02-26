@@ -13,10 +13,6 @@ In order to create an interactive browser game on mobile devices, we chose to us
 
 JavaScript will be our language.
 
-### Pixi (specifically w/ React)
-
-We will use [Pixi](https://www.pixijs.com/) to customize the game and to make the game look fluid.
-
 ### Phaser.io
 
 We will use [Phaser](http://phaser.io/) as our game framework to bring in different elements.
@@ -24,3 +20,7 @@ We will use [Phaser](http://phaser.io/) as our game framework to bring in differ
 ### Tiled
 
 We will use [Tiled](https://www.mapeditor.org/) to generate different maps and levels.
+
+### Bulma
+
+We will use [Bulma](https://bulma.io/) to help style our web game with custom CSS classes.

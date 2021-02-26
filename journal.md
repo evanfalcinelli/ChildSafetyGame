@@ -7,6 +7,31 @@ permalink: /journal/
 
 ## Meeting Notes
 
+### Team Meeting 2/25
+
+- Evan finished creating assets in Tiled
+- Evan is continuing to work on the map using Tiled
+- The art design of the game won't be as realistic as real life
+- Daniel and John will work on creating the different pages and popups using Phaser
+ - They will also try to work on transitioning from different pages/screen through Phaser
+- Muyan will add the Tiled map in the game using Phaser 
+ - Will also try to make the images stop at possible hazards if there is time left in the sprint
+
+### Client Meeting 2/25
+
+- Lindsay prefers "child" as the proper working 
+- Helped Lindsay set up her Cloud CloudApps accounts
+- Lindsay wants the game URL to be pediatricfallprevent.unc.edu
+- Will send Lindsay more instructions regarding Carolina CloudApps over the weekend
+
+### Recitation Meeting 2/23
+
+- Clarify hazard description/rules in the design; change it so that no children can complete the level without facing any hazards
+- Standardize wording throughout the design document; ask Lindsay if she prefers "child," "baby," or "toddler"
+- More feedback on the design document in Sakai
+- For next next, try to implement the Tiled map in using Phaser + also try to spawn multiple images
+- If possible, also try to include hazards next week
+
 ### Recitation Meeting 2/18
 
 **Recap:**
