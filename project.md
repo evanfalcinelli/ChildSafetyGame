@@ -7,11 +7,17 @@ permalink: /project/
 
 ## Concept
 
+[Game Link](https://stork-shipping-co.web.app/)
+
 Stork Shipping Co. allows parents to create a safe environment for their children whether it is at home or on the playground. Parents are able to learn key concepts of child safety before testing their knowledge in a game that will simulate real-life experiences and quiz them on their choices!
 
 ## Learning Objectives
 
 [Link](https://docs.google.com/document/d/1DGJvSUpQCXMqn-h59YeLy6XQ5OavAXe5zpagXfhx8HA/edit?usp=sharing)
+
+## Sprint Schedule
+
+[Link](https://docs.google.com/spreadsheets/d/1GhoJ9lSiZrVgomZzhm6TIzOPopiEkHNbLG47dENf9Sk/edit?usp=sharing)
 
 ## Repository
 
@@ -23,7 +29,9 @@ Stork Shipping Co. allows parents to create a safe environment for their childre
 
 ## Software Design Document
 
-[Software Document](https://docs.google.com/document/d/1QlQSn7olQ5QWtWxa4gohxHe46l2cIOtQCms0OLss7JI/edit?usp=sharing)
+## Presentation Planning Document
+
+[Link](https://docs.google.com/document/d/1wdPXAcNtaCvN0yYdYoh2dKSy0laoDkjbX1OooTniwOc/edit)
 
 ## Video
 
