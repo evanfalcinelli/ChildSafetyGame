@@ -10,9 +10,13 @@ The course website is [here](https://wwwx.cs.unc.edu/~pozefsky/seriousgames_s21/
 ## Deliverables
 
 [Game Design Document](https://docs.google.com/document/d/1_Z__loN9b_KWujDQujJimzucuzEq4P-2-X6s9w0lXis/edit?usp=sharing)
+
 [Software Design Document](https://docs.google.com/document/d/1QlQSn7olQ5QWtWxa4gohxHe46l2cIOtQCms0OLss7JI/edit?usp=sharing)
+
 [Game (Firebase)](https://stork-shipping-co.web.app/)
+
 [Repository](https://github.com/jaadbarg/StorkShippingCo)
+
 Video
 
 
