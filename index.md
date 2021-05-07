@@ -17,7 +17,7 @@ The course website is [here](https://wwwx.cs.unc.edu/~pozefsky/seriousgames_s21/
 
 [Repository](https://github.com/jaadbarg/StorkShippingCo)
 
-[Video (Youtube)](https://youtu.be/MW9oxcb8EBw)
+[Video](https://youtu.be/MW9oxcb8EBw)
 
 
 
